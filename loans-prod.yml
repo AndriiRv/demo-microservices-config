@@ -1,3 +1,3 @@
 
 microservice-config:
-  greetings-message: ""
+  greetings-message: "{cipher}62bdddc2a778f4916b9860f881bf304626da052637b4243f567eaa4a1564532edfb4a25aa7adab5653f99ad32eed3013b1489cc005bdfbe269c863d473a913e2"
