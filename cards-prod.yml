@@ -1,2 +1,3 @@
 
-greetings-message: "{cipher}a84dcfe2bcbc3b9f3a27d597d648d63d54478f94a1511c74519f052de6305d1a9a2f5b54cdaca7c16f35d3aee19c6de7ade7678c0045586e63917e73a3cb2563"
+microservice-config:
+  greetings-message: "{cipher}a84dcfe2bcbc3b9f3a27d597d648d63d54478f94a1511c74519f052de6305d1a9a2f5b54cdaca7c16f35d3aee19c6de7ade7678c0045586e63917e73a3cb2563"
